@@ -1,3 +1,1 @@
-# CalmBaby ads.txt
 google.com, pub-7847161888360388, DIRECT, f08c47fec0942fa0
-
